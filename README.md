@@ -1,4 +1,4 @@
-## 📈 Statistical AirBnB
+## 📈 Statistical Thinking AirBnB
 
 Trabajamos como analistas en el mercado de inmuebles y uno de nuestros clientes está especialmente interesado en Madrid, donde posee una cantidad importante de viviendas publicadas en la plataforma de AirBnB. Nos pide asesoría para optimizar el precio de sus viviendas mediante el análisis de datos.
 
