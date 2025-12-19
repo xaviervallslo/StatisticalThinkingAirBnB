@@ -4,11 +4,11 @@ Trabajamos como analistas en el mercado de inmuebles y uno de nuestros clientes 
 
 
 ## 🛠️ Ficheros
-airbnb_madrid_conditions.parquet
-airbnb_madrid_host.parquet
-airbnb_madrid_location.parquet
-airbnb_madrid_property.parquet
-airbnb_madrid_reviews.parquet
+- airbnb_madrid_conditions.parquet
+- airbnb_madrid_host.parquet
+- airbnb_madrid_location.parquet
+- airbnb_madrid_property.parquet
+- airbnb_madrid_reviews.parquet
 
 
 ## 🎯 Objetivo del proyecto
